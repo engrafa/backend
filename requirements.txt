@@ -1,0 +1,5 @@
+flask
+flask-restful
+flask-cors
+flask-restful-swagger-3==0.4.3
+gunicorn
